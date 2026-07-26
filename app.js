@@ -1,4 +1,4 @@
-const PASSWORD="explore34";
+const PASSWORD="beta2026";
 const lessons=[
   {
     "week": 1,
