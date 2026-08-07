@@ -39,7 +39,7 @@ const lessons=[
       "source": "Study.com / PBS",
       "url": "https://www.pbs.org/video/tribal-archives-poarch-band-creek-indians-aavtqj/?utm_source=chatgpt.com",
       "description": "Learn about Creek history and culture.",
-      "thumbnail": ""
+      "thumbnail": "assets/thumbnails/week-02-video.png"
     },
     "visit": {
       "title": "Moundville Archaeological Park",
@@ -183,7 +183,7 @@ const lessons=[
       "source": "Alabama Public Television / PBS",
       "url": "https://www.pbs.org/video/the-forgotten-creeks-s2bc3w/",
       "description": "Causes and effects of the Creek War.",
-      "thumbnail": ""
+      "thumbnail": "assets/thumbnails/week-08-video.png"
     },
     "visit": {
       "title": "Fort Toulouse-Fort Jackson Park",
@@ -735,7 +735,7 @@ const lessons=[
       "source": "YouTube Search",
       "url": "https://www.youtube.com/results?search_query=The+Kid+Who+Invented+the+Popsicle+read+aloud",
       "description": "Creativity and invention in Alabama.",
-      "thumbnail": ""
+      "thumbnail": "assets/thumbnails/week-31-video.png"
     },
     "visit": {
       "title": "McWane Science Center",
@@ -783,7 +783,7 @@ const lessons=[
       "source": "Outdoor Alabama",
       "url": "https://www.youtube.com/playlist?list=PLEz6lPQUeUn1wKerOoAklD5Mgy6tA8_CH",
       "description": "Explore Alabama's outdoor treasures.",
-      "thumbnail": ""
+      "thumbnail": "assets/thumbnails/week-33-video.png"
     },
     "visit": {
       "title": "Visit Any Alabama State Park- Monte Sano State Park",
