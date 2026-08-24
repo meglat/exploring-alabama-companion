@@ -861,6 +861,16 @@ function render(i){
   $("visitTitle").textContent=l.visit.title;
   $("visitDesc").textContent=l.visit.description;
   setOptionalLink("visitLink",l.visit.url);
+  const ps=$("printableSection");
+
+if(l.printable){
+  ps.hidden=false;
+  $("printableTitle").textContent=l.printable.title;
+  $("printableDesc").textContent=l.printable.description||"";
+  $("printableLink").href=l.printable.url;
+}else{
+  ps.hidden=true;
+}
   ["topSelect","bottomSelect","welcomeSelect"].forEach(id=>$(id).value=current);
   const p=$("prev"),n=$("next");
   if(current===0){p.textContent="Beginning of the Adventure";p.disabled=true;}
