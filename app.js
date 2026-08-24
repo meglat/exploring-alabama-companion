@@ -51,6 +51,11 @@ const lessons=[
       "url": "https://moundville.museums.ua.edu/",
       "description": "Explore one of the largest Native American sites in North America and learn about Alabama's earliest communities."
     },
+    "printable": {
+  "title": "Create a Pictograph Story",
+  "url": "assets/printables/Week-02-Pictograph-Story.pdf",
+  "description": "Optional Week 2 activity: create a story using pictures and symbols."
+},
     "hero": "assets/banners/week-02.webp"
   },
   {
@@ -75,6 +80,11 @@ const lessons=[
       "url": "https://www.alapark.com/parks/desoto-state-park",
       "description": "Take a hike and imagine traveling through Alabama's forests without roads, maps, or modern transportation."
     },
+    "printable": {
+  "title": "Packing for a Voyage",
+  "url": "assets/printables/Week-03-Packing-for-a-Voyage.pdf",
+  "description": "Optional Week 3 activity: choose what you would pack for a long voyage."
+},
     "hero": "assets/banners/week-03.webp"
   },
   {
@@ -99,6 +109,11 @@ const lessons=[
       "url": "https://www.oakvilleindianmounds.com/",
       "description": "Discover artifacts and learn how Native families lived, farmed, traded, and built communities."
     },
+    "printable": {
+  "title": "Weave a Paper Design",
+  "url": "assets/printables/Week-04-Paper-Weaving.pdf",
+  "description": "Optional Week 4 activity: practice paper weaving with a printable strip template."
+},
     "hero": "assets/banners/week-04.webp"
   },
   {
@@ -123,6 +138,11 @@ const lessons=[
       "url": "https://www.historymuseumofmobile.com/colonial-fort-conde/",
       "description": "Walk through a reconstruction of Alabama's first permanent European settlement and imagine life in French Mobile."
     },
+    "printable": {
+  "title": "Design a Flag for Your New Settlement",
+  "url": "assets/printables/Week-05-Design-a-Settlement-Flag.pdf",
+  "description": "Optional Week 5 activity: design a flag to represent your new settlement."
+},
     "hero": "assets/banners/week-05.webp"
   },
   {
