@@ -22,6 +22,11 @@ const lessons=[
       "url": "https://www.guidetoalabama.com/stories/mobile-bay-the-gulf-coast",
       "description": "Visit Alabama's coast and imagine the first European ships sailing into these waters more than 500 years ago."
     },
+    "printable": {
+  "title": "Draw the Explorers' Route",
+  "url": "assets/printables/Week-01-Draw-the-Explorers-Route.pdf",
+  "description": "Optional Week 1 activity: trace the routes of early explorers."
+},
     "hero": "assets/banners/week-01.webp"
   },
   {
