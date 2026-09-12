@@ -1013,7 +1013,12 @@ function render(i){
   $("weekNo").textContent=`Week ${l.week}`;
   $("title").textContent=l.title;
   $("intro").textContent=l.intro;
-  $("bookArt").textContent=l.book.title;
+  const b=$("bookArt");
+if(l.book.thumbnail){
+  b.innerHTML=`<img src="${l.book.thumbnail}" alt="Cover of ${l.book.title}" class="resource-thumbnail">`;
+}else{
+  b.textContent=l.book.title;
+}
   $("bookTitle").textContent=l.book.title;
   $("bookAuthor").textContent=l.book.author?`by ${l.book.author}`:"";
   $("bookDesc").textContent=l.book.description;
