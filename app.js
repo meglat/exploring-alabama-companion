@@ -818,7 +818,7 @@ const lessons=[
     "book": {
       "title": "National Geographic Kids Animal Encyclopedia",
       "author": "",
-      "url": "",
+      "url": "https://kids.nationalgeographic.com/animals",
       "description": "Meet fascinating animals from around the world—including many that live right here in Alabama! Discover how different habitats provide homes for black bears, bald eagles, sea turtles, deer, and many other amazing creatures."
     },
     "video": {
