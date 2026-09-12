@@ -1054,6 +1054,13 @@ if(l.printable){
   $("printableTitle").textContent=l.printable.title;
   $("printableDesc").textContent=l.printable.description||"";
   $("printableLink").href=l.printable.url;
+  const pArt=$("printableArt");
+
+if(l.printable.thumbnail){
+  pArt.innerHTML=`<img src="${l.printable.thumbnail}" alt="${l.printable.title}" class="resource-thumbnail">`;
+}else{
+  pArt.textContent="🖨️";
+}
 }else{
   ps.hidden=true;
 }
