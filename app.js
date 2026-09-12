@@ -9,7 +9,7 @@ const lessons=[
       "author": "Peter Sís",
       "url": "https://www.penguinrandomhouse.com/books/168056/follow-the-dream-by-peter-sis/?utm_source=chatgpt.com",
       "description": "Discover the voyage that opened the Age of Exploration. This beautifully illustrated picture book helps children understand how Christopher Columbus's journey paved the way for later Spanish explorers who eventually reached Alabama's Gulf Coast."
-      "thumbnail": "https://books.google.com/books/content?id=F_wAOC8hl-sC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      "thumbnail": "assets/thumbnails/week-01-book.jpg"
     },
     "video": {
       "title": "Delta Safari: The Forgotten Conquistador",
@@ -22,11 +22,13 @@ const lessons=[
       "title": "Mobile Bay or Gulf Coast shoreline",
       "url": "https://www.guidetoalabama.com/stories/mobile-bay-the-gulf-coast",
       "description": "Visit Alabama's coast and imagine the first European ships sailing into these waters more than 500 years ago."
+      "thumbnail": "assets/thumbnails/week-01-visit.jpg"
     },
     "printable": {
   "title": "Draw the Explorers' Route",
   "url": "assets/printables/OptAct_Week01.pdf",
   "description": "Optional Week 1 activity: trace the routes of early explorers."
+  "thumbnail": "assets/thumbnails/week-01-print.png"
 },
     "hero": "assets/banners/week-01.webp"
   },
