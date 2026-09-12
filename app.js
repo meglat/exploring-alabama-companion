@@ -24,7 +24,7 @@ const lessons=[
     },
     "printable": {
   "title": "Draw the Explorers' Route",
-  "url": "assets/printables/Week-01-Draw-the-Explorers-Route.pdf",
+  "url": "assets/printables/OptAct_Week01.pdf",
   "description": "Optional Week 1 activity: trace the routes of early explorers."
 },
     "hero": "assets/banners/week-01.webp"
@@ -53,7 +53,7 @@ const lessons=[
     },
     "printable": {
   "title": "Create a Pictograph Story",
-  "url": "assets/printables/Week-02-Pictograph-Story.pdf",
+  "url": "assets/printables/OptAct_Week02.pdf",
   "description": "Optional Week 2 activity: create a story using pictures and symbols."
 },
     "hero": "assets/banners/week-02.webp"
@@ -82,7 +82,7 @@ const lessons=[
     },
     "printable": {
   "title": "Packing for a Voyage",
-  "url": "assets/printables/Week-03-Packing-for-a-Voyage.pdf",
+  "url": "assets/printables/OptAct_Week03.pdf",
   "description": "Optional Week 3 activity: choose what you would pack for a long voyage."
 },
     "hero": "assets/banners/week-03.webp"
@@ -111,7 +111,7 @@ const lessons=[
     },
     "printable": {
   "title": "Weave a Paper Design",
-  "url": "assets/printables/Week-04-Paper-Weaving.pdf",
+  "url": "assets/printables/OptAct_Week04.pdf",
   "description": "Optional Week 4 activity: practice paper weaving with a printable strip template."
 },
     "hero": "assets/banners/week-04.webp"
@@ -140,7 +140,7 @@ const lessons=[
     },
     "printable": {
   "title": "Design a Flag for Your New Settlement",
-  "url": "assets/printables/Week-05-Design-a-Settlement-Flag.pdf",
+  "url": "assets/printables/OptAct_Week05.pdf",
   "description": "Optional Week 5 activity: design a flag to represent your new settlement."
 },
     "hero": "assets/banners/week-05.webp"
@@ -167,6 +167,11 @@ const lessons=[
       "url": "https://condecharlotte.com/",
       "description": "Learn how three different nations shaped Alabama's early history."
     },
+    "printable": {
+  "title": "Flags Over Early Alabama",
+  "url": "assets/printables/OptAct_Week06.pdf",
+  "description": "Optional Week 6 activity: color, cut, and arrange Alabama's three early flags in order."
+},
     "hero": "assets/banners/week-06.webp"
   },
   {
@@ -191,6 +196,11 @@ const lessons=[
       "url": "https://www.blakeleypark.com/",
       "description": "Explore one of Alabama's earliest settlements and imagine life as Alabama became part of the Mississippi Territory."
     },
+    "printable": {
+  "title": "Flags Over Early Alabama",
+  "url": "assets/printables/OptAct_Week07.pdf",
+  "description": "Optional Week 7 activity: pack a pioneer wagon using pictures or drawings."
+},
     "hero": "assets/banners/week-07.webp"
   },
   {
@@ -215,6 +225,11 @@ const lessons=[
       "url": "https://fttoulousejackson.org/",
       "description": "Learn about frontier conflicts and the changing relationships between Native nations and American settlers."
     },
+  "printable": {
+  "title": "Create a Peace Treaty",
+  "url": "assets/printables/OptAct_Week08.pdf",
+  "description": "Optional Week 8 activity: create a peace treaty using pictures and signatures."
+},
     "hero": "assets/banners/week-08.webp"
   },
   {
@@ -239,6 +254,11 @@ const lessons=[
       "url": "https://www.nps.gov/hobe/index.htm",
       "description": "Walk the battlefield trails and learn how this important battle changed Alabama's future."
     },
+    "printable": {
+  "title": "Build Horseshoe Bend",
+  "url": "assets/printables/OptAct_Week09.pdf",
+  "description": "Optional Week 9 activity: build Horseshoe Bend using playdough, blocks, or sand."
+},
     "hero": "assets/banners/week-09.webp"
   },
   {
@@ -263,6 +283,11 @@ const lessons=[
       "url": "https://ahc.alabama.gov/properties/cahawba/cahawba.aspx",
       "description": "Explore Alabama's first state capital and imagine settlers arriving in a growing territory."
     },
+    "printable": {
+  "title": "Build a Frontier Cabin",
+  "url": "assets/printables/OptAct_Week10.pdf",
+  "description": "Optional Week 10 activity: draw or build a small frontier cabin."
+},
     "hero": "assets/banners/week-10.webp"
   },
   {
@@ -287,6 +312,11 @@ const lessons=[
       "url": "https://earlyworks.com/achp/",
       "description": "Visit the place where Alabama's first constitution was written before joining the Union."
     },
+    "printable": {
+  "title": "Celebrate Alabama Statehood",
+  "url": "assets/printables/OptAct_Week11.pdf",
+  "description": "Optional Week 11 activity: create an Alabama statehood celebration poster or flag."
+},
     "hero": "assets/banners/week-11.webp"
   },
   {
@@ -311,6 +341,11 @@ const lessons=[
       "url": "https://www.funinmontgomery.com/Home/Components/FacilityDirectory/FacilityDirectory/6/3097",
       "description": "Watch boats travel Alabama's rivers and imagine how river transportation connected frontier communities."
     },
+    "printable": {
+  "title": "Taste the Past",
+  "url": "assets/printables/OptAct_Week12.pdf",
+  "description": "Optional Week 12 activity: make butter in a jar or bake cornbread together."
+},
     "hero": "assets/banners/week-12.webp"
   },
   {
@@ -335,6 +370,11 @@ const lessons=[
       "url": "https://touroldalabamatown.com/",
       "description": "See historic homes and learn how families lived during Alabama's cotton years."
     },
+    "printable": {
+  "title": "From Cotton Boll to Fiber",
+  "url": "assets/printables/OptAct_Week13.pdf",
+  "description": "Optional Week 13 activity: separate and examine cotton fibers using your fingers or tweezers."
+},
     "hero": "assets/banners/week-13.webp"
   },
   {
@@ -359,6 +399,11 @@ const lessons=[
       "url": "https://ahc.alabama.gov/properties/confederate/confederate.aspx",
       "description": "Learn how the Civil War affected Alabama families and communities."
     },
+   "printable": {
+  "title": "Choose Peace",
+  "url": "assets/printables/OptAct_Week14.pdf",
+  "description": "Optional Week 14 activity: list peaceful ways to solve disagreements."
+}, 
     "hero": "assets/banners/week-14.webp"
   },
   {
@@ -383,6 +428,11 @@ const lessons=[
       "url": "",
       "description": "Explore how communities rebuilt after the Civil War and see the remains of Alabama's former capital."
     },
+    "printable": {
+  "title": "Build Like the Pioneers",
+  "url": "assets/printables/OptAct_Week15.pdf",
+  "description": "Optional Week 15 activity: build a small bridge or cabin using craft sticks or blocks."
+},
     "hero": "assets/banners/week-15.webp"
   },
   {
@@ -407,6 +457,11 @@ const lessons=[
       "url": "https://www.slossfurnaces.org/",
       "description": "Discover how iron and steel helped Birmingham become the Magic City."
     },
+    "printable": {
+  "title": "Build Our City",
+  "url": "assets/printables/OptAct_Week16.pdf",
+  "description": "Optional Week 16 activity: build a simple skyline or bridge using blocks, LEGO, or cardboard."
+},
     "hero": "assets/banners/week-16.webp"
   },
   {
@@ -431,6 +486,11 @@ const lessons=[
       "url": "https://helenkellerbirthplace.org/",
       "description": "Visit Helen Keller's childhood home and discover how she learned to communicate and inspired people around the world."
     },
+    "printable": {
+  "title": "Feel the Letters",
+  "url": "assets/printables/OptAct_Week17.pdf",
+  "description": "Optional Week 17 activity: try writing your name using only touch or with your eyes closed."
+},
     "hero": "assets/banners/week-17.webp"
   },
   {
@@ -455,6 +515,11 @@ const lessons=[
       "url": "https://www.nps.gov/tuin/planyourvisit/george-washington-carver-museum.htm",
       "description": "Explore the place where George Washington Carver taught, researched, and encouraged new ways of farming."
     },
+    "printable": {
+  "title": "Watch It Grow",
+  "url": "assets/printables/OptAct_Week18.pdf",
+  "description": "Optional Week 18 activity: plant seeds or observe different plants and record their changes."
+},
     "hero": "assets/banners/week-18.webp"
   },
   {
@@ -479,6 +544,11 @@ const lessons=[
       "url": "https://www.ussalabama.com/",
       "description": "Walk aboard the USS Alabama and learn how Alabamians served their country during World War II."
     },
+    "printable": {
+  "title": "Say Thank You",
+  "url": "assets/printables/OptAct_Week19.pdf",
+  "description": "Optional Week 19 activity: write or draw a thank-you note for someone who serves others."
+},
     "hero": "assets/banners/week-19.webp"
   },
   {
@@ -503,6 +573,11 @@ const lessons=[
       "url": "https://www.bcri.org/",
       "description": "Discover how Alabama became the center of important events that helped change America and advance civil rights."
     },
+    "printable": {
+  "title": "A Chain of Kindness",
+  "url": "assets/printables/OptAct_Week20.pdf",
+  "description": "Optional Week 20 activity: create a paper chain showing ways to spread kindness and fairness."
+},
     "hero": "assets/banners/week-20.webp"
   },
   {
@@ -527,6 +602,11 @@ const lessons=[
       "url": "https://www.rocketcenter.com/",
       "description": "Explore rockets, space exhibits, and the home of the Saturn V rocket that helped send astronauts to the moon."
     },
+    "printable": {
+  "title": "Blast Off!",
+  "url": "assets/printables/OptAct_Week21.pdf",
+  "description": "Optional Week 21 activity: build a paper rocket or design your own spacecraft."
+},
     "hero": "assets/banners/week-21.webp"
   },
   {
@@ -551,6 +631,11 @@ const lessons=[
       "url": "https://alabama.travel/festivals-and-events",
       "description": "Experience Alabama's traditions through music, food, crafts, and celebrations that bring communities together."
     },
+    "printable": {
+  "title": "Our Family Traditions",
+  "url": "assets/printables/OptAct_Week22.pdf",
+  "description": "Optional Week 22 activity: create a page showing your family's favorite traditions."
+},
     "hero": "assets/banners/week-22.webp"
   },
   {
@@ -575,6 +660,11 @@ const lessons=[
       "url": "https://www.nps.gov/liri/index.htm",
       "description": "Explore Alabama's beautiful natural landscapes and discover the diverse environments found across the state."
     },
+    "printable": {
+  "title": "Alabama Habitats",
+  "url": "assets/printables/OptAct_Week23.pdf",
+  "description": "Optional Week 23 activity: make a simple Alabama habitat diorama or nature collage."
+},
     "hero": "assets/banners/week-23.webp"
   },
   {
@@ -599,6 +689,11 @@ const lessons=[
       "url": "",
       "description": "Visit a special place in Alabama and reflect on everything you've learned about our state's story and future."
     },
+    "printable": {
+  "title": "I Love Alabama!",
+  "url": "assets/printables/OptAct_Week24.pdf",
+  "description": "Optional Week 24 activity: create an I Love Alabama poster using favorite memories and facts."
+},
     "hero": "assets/banners/week-24.webp"
   },
   {
@@ -623,6 +718,11 @@ const lessons=[
       "url": "https://archives.alabama.gov/",
       "description": "Explore exhibits and maps that help tell the story of Alabama's earliest people and how our state received its name."
     },
+    "printable": {
+  "title": "What's in a Name?",
+  "url": "assets/printables/OptAct_Week25.pdf",
+  "description": "Optional Week 25 activity: discover what your own name means and create a name page."
+},
     "hero": "assets/banners/week-25.webp"
   },
   {
@@ -647,6 +747,11 @@ const lessons=[
       "url": "https://www.alapark.com/parks/cathedral-caverns-state-park",
       "description": "Explore Alabama's amazing rock formations and caves created over millions of years."
     },
+    "printable": {
+  "title": "Build a Cave or Natural Bridge",
+  "url": "assets/printables/OptAct_Week26.pdf",
+  "description": "Optional Week 26 activity: build a cave or natural bridge using blocks, clay, or paper."
+},
     "hero": "assets/banners/week-26.webp"
   },
   {
@@ -671,6 +776,11 @@ const lessons=[
       "url": "https://alabamawildlifecenter.org/",
       "description": "Discover the many animals that call Alabama home and learn how we can protect their habitats."
     },
+    "printable": {
+  "title": "Alabama Animals and Their Homes",
+  "url": "assets/printables/OptAct_Week27.pdf",
+  "description": "Optional Week 27 activity: match Alabama animals to their habitats using drawings or cards."
+},
     "hero": "assets/banners/week-27.webp"
   },
   {
@@ -695,6 +805,11 @@ const lessons=[
       "url": "https://www.tva.com/environment/recreation/visitor-centers",
       "description": "Learn how the Tennessee River shaped Alabama's economy, wildlife, and communities."
     },
+    "printable": {
+  "title": "Create a River in a Sensory Tray",
+  "url": "assets/printables/OptAct_Week28.pdf",
+  "description": "Optional Week 28 activity: create a river in a sensory tray using foil, sand, or water."
+},
     "hero": "assets/banners/week-28.webp"
   },
   {
@@ -719,6 +834,11 @@ const lessons=[
       "url": "https://www.acpinfo.com/sand-island-lighthouse/",
       "description": "Explore Alabama's coastal history and discover how forts and lighthouses protected travelers and ships."
     },
+    "printable": {
+  "title": "Build a Lighthouse",
+  "url": "assets/printables/OptAct_Week29.pdf",
+  "description": "Optional Week 29 activity: build a lighthouse using blocks, cups, or recycled materials."
+},
     "hero": "assets/banners/week-29.webp"
   },
   {
@@ -743,6 +863,11 @@ const lessons=[
       "url": "https://www.alamhof.org/",
       "description": "Discover how Alabama musicians helped shape many different styles of American music."
     },
+    "printable": {
+  "title": "Alabama Sounds",
+  "url": "assets/printables/OptAct_Week30.pdf",
+  "description": "Optional Week 30 activity: listen to Alabama music and draw what the songs make you imagine."
+},
     "hero": "assets/banners/week-30.webp"
   },
   {
@@ -767,6 +892,11 @@ const lessons=[
       "url": "https://mcwane.org/",
       "description": "Explore science, technology, and the many inventions and innovations connected to Alabama."
     },
+    "printable": {
+  "title": "Design Your Own Invention",
+  "url": "assets/printables/OptAct_Week31.pdf",
+  "description": "Optional Week 31 activity: sketch your own invention and explain how it helps people."
+},
     "hero": "assets/banners/week-31.webp"
   },
   {
@@ -791,6 +921,11 @@ const lessons=[
       "url": "https://ashof.org/",
       "description": "Learn about famous Alabamians who have influenced our state, nation, and world."
     },
+    "printable": {
+  "title": "Future Famous Alabamian",
+  "url": "assets/printables/OptAct_Week32.pdf",
+  "description": "Optional Week 32 activity: create a Future Famous Alabamian page about yourself."
+},
     "hero": "assets/banners/week-32.webp"
   },
   {
@@ -815,6 +950,11 @@ const lessons=[
       "url": "https://www.alapark.com/parks/monte-sano-state-park",
       "description": "Explore one of Alabama's beautiful state parks and discover why these special places are worth protecting."
     },
+    "printable": {
+  "title": "Design Your Dream Alabama State Park",
+  "url": "assets/printables/OptAct_Week33.pdf",
+  "description": "Optional Week 33 activity: design your dream Alabama State Park with maps and activities."
+},
     "hero": "assets/banners/week-33.webp"
   },
   {
@@ -839,6 +979,11 @@ const lessons=[
       "url": "https://hmchs.org/",
       "description": "Compare Alabama's past and present by learning how your local community has changed over time."
     },
+    "printable": {
+  "title": "My Alabama Story",
+  "url": "assets/printables/OptAct_Week34.pdf",
+  "description": "Optional Week 34 activity: create a memory page about your Alabama adventures, favorite places, and what you've learned."
+},
     "hero": "assets/banners/week-34.webp"
   }
 ];
