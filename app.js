@@ -258,7 +258,8 @@ const lessons=[
       "title": "The Battle of Horseshoe Bend: Collision of Cultures (National Park Service Teaching with Historic Places)",
       "author": "",
       "url": "https://www.nps.gov/teachers/classrooms/54horseshoe.htm",
-      "description": "Explore one of the most important battles in Alabama's history through maps, illustrations, and stories from the National Park Service. This resource helps students understand how the Battle of Horseshoe Bend changed the future of Alabama."
+      "description": "Explore one of the most important battles in Alabama's history through maps, illustrations, and stories from the National Park Service. This resource helps students understand how the Battle of Horseshoe Bend changed the future of Alabama.",
+      "thumbnail": "assets/thumbnails/week-09-book.jpeg"
     },
     "video": {
       "title": "Horseshoe Bend National Military Park",
@@ -270,12 +271,14 @@ const lessons=[
     "visit": {
       "title": "Horseshoe Bend National Military Park",
       "url": "https://www.nps.gov/hobe/index.htm",
-      "description": "Walk the battlefield trails and learn how this important battle changed Alabama's future."
+      "description": "Walk the battlefield trails and learn how this important battle changed Alabama's future.",
+      "thumbnail": "assets/thumbnails/week-09-visit.jpg"
     },
     "printable": {
   "title": "Build Horseshoe Bend",
   "url": "assets/printables/OptAct_Week09.pdf",
-  "description": "Optional Week 9 activity: build Horseshoe Bend using playdough, blocks, or sand."
+  "description": "Optional Week 9 activity: build Horseshoe Bend using playdough, blocks, or sand.",
+      "thumbnail": "assets/thumbnails/week-09-print.png"
 },
     "hero": "assets/banners/week-09.webp"
   },
@@ -287,7 +290,8 @@ const lessons=[
       "title": "The Cabin Faced West",
       "author": "Jean Fritz",
       "url": "https://www.amazon.com/Cabin-Faced-West-Jean-Fritz/dp/0698119363/ref=sr_1_1?dib=eyJ2IjoiMSJ9.kpAcfTPsLV8HxC5uycrF5vf0RMguVV_qcZyWn3LhqMgEdLMRPjA83DfwXiLNBElHBUsmpnSJEqU1jh9rcqtfOe1rnHUobmEmWIhia7Fkno1joIBFRcEt6pkVbbNkMcqe5aGXZBgC1LbTSG72Q1F4XvUS7oy76fQbovMdwRglMAU.HTpzabzE6DP90BERPBaZRCKDCX-qB1Qhj9j0xNam_ZA&dib_tag=se&hvadid=740562135009&hvdev=c&hvexpln=67&hvlocphy=9012698&hvnetw=g&hvocijid=7302904392765045252--&hvqmt=e&hvrand=7302904392765045252&hvtargid=kwd-331278067324&hydadcr=27077_14788711&keywords=the+cabin+faced+west&mcid=0fa7d9a40fc038eb9a7e34363c1e2f63&qid=1785007884&sr=8-1",
-      "description": "What was it like to build a new life on the American frontier? Follow one family's journey as they settle in the wilderness and discover the courage, hard work, and hope that shaped America's growing territories."
+      "description": "What was it like to build a new life on the American frontier? Follow one family's journey as they settle in the wilderness and discover the courage, hard work, and hope that shaped America's growing territories.",
+      "thumbnail": "assets/thumbnails/week-10-book.jpg"
     },
     "video": {
       "title": "From Territory to State",
@@ -299,12 +303,14 @@ const lessons=[
     "visit": {
       "title": "Old Cahawba Archaeological Park",
       "url": "https://ahc.alabama.gov/properties/cahawba/cahawba.aspx",
-      "description": "Explore Alabama's first state capital and imagine settlers arriving in a growing territory."
+      "description": "Explore Alabama's first state capital and imagine settlers arriving in a growing territory.",
+      "thumbnail": "assets/thumbnails/week-10-visit.jpg"
     },
     "printable": {
   "title": "Build a Frontier Cabin",
   "url": "assets/printables/OptAct_Week10.pdf",
-  "description": "Optional Week 10 activity: draw or build a small frontier cabin."
+  "description": "Optional Week 10 activity: draw or build a small frontier cabin.",
+      "thumbnail": "assets/thumbnails/week-10-visit.png"
 },
     "hero": "assets/banners/week-10.webp"
   },
