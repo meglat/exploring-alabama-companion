@@ -9,7 +9,7 @@ const lessons=[
       "author": "Peter Sís",
       "url": "https://www.penguinrandomhouse.com/books/168056/follow-the-dream-by-peter-sis/?utm_source=chatgpt.com",
       "description": "Discover the voyage that opened the Age of Exploration. This beautifully illustrated picture book helps children understand how Christopher Columbus's journey paved the way for later Spanish explorers who eventually reached Alabama's Gulf Coast.",
-      "thumbnail": "assets/thumbnails/week-01-book.jpg"
+      "thumbnail": "assets/thumbnails/week-01-book.jpeg"
     },
     "video": {
       "title": "Delta Safari: The Forgotten Conquistador",
