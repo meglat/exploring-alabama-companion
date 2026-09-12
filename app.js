@@ -124,7 +124,7 @@ const lessons=[
   "title": "Weave a Paper Design",
   "url": "assets/printables/OptAct_Week04.pdf",
   "description": "Optional Week 4 activity: practice paper weaving with a printable strip template.",
-      "thumbnail": "assets/thumbnails/week-04-visit.png"
+      "thumbnail": "assets/thumbnails/week-04-print.png"
 },
     "hero": "assets/banners/week-04.webp"
   },
