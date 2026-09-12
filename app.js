@@ -328,7 +328,8 @@ const lessons=[
       "title": "Where Is Alabama? (Who HQ: The 50 States)",
       "author": "",
       "url": "https://www.amazon.com/dp/B0GF8KZ46L?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "description": "How did Alabama become the 22nd state? Travel through Alabama's fascinating past as you explore its history, geography, famous landmarks, and the people who helped shape its story. This engaging nonfiction book is the perfect companion to your journey into Alabama's statehood and early years."
+      "description": "How did Alabama become the 22nd state? Travel through Alabama's fascinating past as you explore its history, geography, famous landmarks, and the people who helped shape its story. This engaging nonfiction book is the perfect companion to your journey into Alabama's statehood and early years.",
+      "thumbnail": "assets/thumbnails/week-11-book.jpg"
     },
     "video": {
       "title": "Alabama State Capitals | Yellowhammer History Hunt",
@@ -340,12 +341,14 @@ const lessons=[
     "visit": {
       "title": "Alabama Constitution Hall Park",
       "url": "https://earlyworks.com/achp/",
-      "description": "Visit the place where Alabama's first constitution was written before joining the Union."
+      "description": "Visit the place where Alabama's first constitution was written before joining the Union.",
+      "thumbnail": "assets/thumbnails/week-11-visit.jpg"
     },
     "printable": {
   "title": "Celebrate Alabama Statehood",
   "url": "assets/printables/OptAct_Week11.pdf",
-  "description": "Optional Week 11 activity: create an Alabama statehood celebration poster or flag."
+  "description": "Optional Week 11 activity: create an Alabama statehood celebration poster or flag.",
+      "thumbnail": "assets/thumbnails/week-11-print.png"
 },
     "hero": "assets/banners/week-11.webp"
   },
@@ -357,7 +360,8 @@ const lessons=[
       "title": "Ox-Cart Man",
       "author": "Donald Hall",
       "url": "https://www.amazon.com/dp/0140504419?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "description": "Step into the daily life of an early American family as they work together through the seasons. This timeless story helps children imagine what life may have been like for Alabama's earliest settlers."
+      "description": "Step into the daily life of an early American family as they work together through the seasons. This timeless story helps children imagine what life may have been like for Alabama's earliest settlers.",
+      "thumbnail": "assets/thumbnails/week-12-book.jpg"
     },
     "video": {
       "title": "A Day In The Life Of A Pioneer Child",
@@ -369,12 +373,14 @@ const lessons=[
     "visit": {
       "title": "Riverfront Park (Montgomery or Decatur)",
       "url": "https://www.funinmontgomery.com/Home/Components/FacilityDirectory/FacilityDirectory/6/3097",
-      "description": "Watch boats travel Alabama's rivers and imagine how river transportation connected frontier communities."
+      "description": "Watch boats travel Alabama's rivers and imagine how river transportation connected frontier communities.",
+      "thumbnail": "assets/thumbnails/week-12-visit.jpeg"
     },
     "printable": {
   "title": "Taste the Past",
   "url": "assets/printables/OptAct_Week12.pdf",
-  "description": "Optional Week 12 activity: make butter in a jar or bake cornbread together."
+  "description": "Optional Week 12 activity: make butter in a jar or bake cornbread together.",
+      "thumbnail": "assets/thumbnails/week-12-print.png"
 },
     "hero": "assets/banners/week-12.webp"
   },
@@ -386,7 +392,8 @@ const lessons=[
       "title": "Up Before Daybreak: Cotton and People in America",
       "author": "Deborah Hopkinson",
       "url": "https://www.amazon.com/dp/0439639018?lv=shuf&channelId=480&plpRedirect=mhFallback",
-      "description": "Discover how one simple plant changed the course of American history. Through real stories of the people who planted, picked, spun, and worked with cotton, you'll gain a deeper understanding of why cotton became so important to Alabama and how it shaped the lives of generations of families."
+      "description": "Discover how one simple plant changed the course of American history. Through real stories of the people who planted, picked, spun, and worked with cotton, you'll gain a deeper understanding of why cotton became so important to Alabama and how it shaped the lives of generations of families.",
+      "thumbnail": "assets/thumbnails/week-13-book.jpg"
     },
     "video": {
       "title": "Eli Whitney and The Cotton Gin | For Kids",
@@ -398,12 +405,14 @@ const lessons=[
     "visit": {
       "title": "Old Alabama Town (Montgomery)",
       "url": "https://touroldalabamatown.com/",
-      "description": "See historic homes and learn how families lived during Alabama's cotton years."
+      "description": "See historic homes and learn how families lived during Alabama's cotton years.",
+      "thumbnail": "assets/thumbnails/week-13-visit.jpg"
     },
     "printable": {
   "title": "From Cotton Boll to Fiber",
   "url": "assets/printables/OptAct_Week13.pdf",
-  "description": "Optional Week 13 activity: separate and examine cotton fibers using your fingers or tweezers."
+  "description": "Optional Week 13 activity: separate and examine cotton fibers using your fingers or tweezers.",
+      "thumbnail": "assets/thumbnails/week-13-print.png"
 },
     "hero": "assets/banners/week-13.webp"
   },
@@ -415,7 +424,8 @@ const lessons=[
       "title": "Pink and Say",
       "author": "Patricia Polacco",
       "url": "https://www.amazon.com/dp/0399226710",
-      "description": "Through the unforgettable friendship of two boys on opposite sides of history, this moving story reminds us that kindness and courage can shine even during the darkest times. It provides a thoughtful introduction to the Civil War and its impact on families."
+      "description": "Through the unforgettable friendship of two boys on opposite sides of history, this moving story reminds us that kindness and courage can shine even during the darkest times. It provides a thoughtful introduction to the Civil War and its impact on families.",
+      "thumbnail": "assets/thumbnails/week-14-book.jpg"
     },
     "video": {
       "title": "Alabama in the Civil War",
@@ -427,12 +437,14 @@ const lessons=[
     "visit": {
       "title": "Confederate Memorial Park",
       "url": "https://ahc.alabama.gov/properties/confederate/confederate.aspx",
-      "description": "Learn how the Civil War affected Alabama families and communities."
+      "description": "Learn how the Civil War affected Alabama families and communities.",
+      "thumbnail": "assets/thumbnails/week-14-visit.png"
     },
    "printable": {
   "title": "Choose Peace",
   "url": "assets/printables/OptAct_Week14.pdf",
-  "description": "Optional Week 14 activity: list peaceful ways to solve disagreements."
+  "description": "Optional Week 14 activity: list peaceful ways to solve disagreements.",
+     "thumbnail": "assets/thumbnails/week-14-print.png"
 }, 
     "hero": "assets/banners/week-14.webp"
   },
@@ -444,7 +456,8 @@ const lessons=[
       "title": "The Gardener",
       "author": "Sarah Stewart",
       "url": "https://www.amazon.com/dp/0374425183",
-      "description": "Sometimes rebuilding begins with small acts of hope. This beautifully illustrated story reminds us that even after difficult times, people can work together to restore homes, communities, and hearts."
+      "description": "Sometimes rebuilding begins with small acts of hope. This beautifully illustrated story reminds us that even after difficult times, people can work together to restore homes, communities, and hearts.",
+      "thumbnail": "assets/thumbnails/week-15-book.jpg"
     },
     "video": {
       "title": "Reconstruction | Simple Civics",
@@ -456,12 +469,14 @@ const lessons=[
     "visit": {
       "title": "Old Cahawba Archaeological Park",
       "url": "https://ahc.alabama.gov/properties/cahawba/cahawba.aspx",
-      "description": "Explore how communities rebuilt after the Civil War and see the remains of Alabama's former capital."
+      "description": "Explore how communities rebuilt after the Civil War and see the remains of Alabama's former capital.",
+      "thumbnail": "assets/thumbnails/week-15-visit.png"
     },
     "printable": {
   "title": "Build Like the Pioneers",
   "url": "assets/printables/OptAct_Week15.pdf",
-  "description": "Optional Week 15 activity: build a small bridge or cabin using craft sticks or blocks."
+  "description": "Optional Week 15 activity: build a small bridge or cabin using craft sticks or blocks.",
+      "thumbnail": "assets/thumbnails/week-15-print.png"
 },
     "hero": "assets/banners/week-15.webp"
   },
@@ -473,7 +488,8 @@ const lessons=[
       "title": "Sloss Furnaces Self-Guided Tour Guide",
       "author": "",
       "url": "https://www.slossfurnaces.org/history",
-      "description": "Discover the story of Birmingham where it actually happened. Explore the fascinating history of Sloss Furnaces and learn how iron ore, coal, limestone, railroads, and hardworking people transformed Birmingham into the \"Magic City.\""
+      "description": "Discover the story of Birmingham where it actually happened. Explore the fascinating history of Sloss Furnaces and learn how iron ore, coal, limestone, railroads, and hardworking people transformed Birmingham into the \"Magic City.\"",
+      "thumbnail": "assets/thumbnails/week-16-book.jpg"
     },
     "video": {
       "title": "Sloss Furnaces | Yellowhammer History Hunt",
@@ -485,12 +501,14 @@ const lessons=[
     "visit": {
       "title": "Sloss Furnaces National Historic Landmark",
       "url": "https://www.slossfurnaces.org/",
-      "description": "Discover how iron and steel helped Birmingham become the Magic City."
+      "description": "Discover how iron and steel helped Birmingham become the Magic City.",
+      "thumbnail": "assets/thumbnails/week-16-visit.jpg"
     },
     "printable": {
   "title": "Build Our City",
   "url": "assets/printables/OptAct_Week16.pdf",
-  "description": "Optional Week 16 activity: build a simple skyline or bridge using blocks, LEGO, or cardboard."
+  "description": "Optional Week 16 activity: build a simple skyline or bridge using blocks, LEGO, or cardboard.",
+      "thumbnail": "assets/thumbnails/week-16-print.png"
 },
     "hero": "assets/banners/week-16.webp"
   },
@@ -502,7 +520,8 @@ const lessons=[
       "title": "Who Was Helen Keller?",
       "author": "Gare Thompson",
       "url": "https://www.amazon.com/dp/0448431440?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "description": "Meet one of Alabama's most inspiring women as you discover how Helen Keller overcame incredible challenges with determination, courage, and the help of her devoted teacher, Anne Sullivan. Her remarkable story reminds us that obstacles do not have to define our future."
+      "description": "Meet one of Alabama's most inspiring women as you discover how Helen Keller overcame incredible challenges with determination, courage, and the help of her devoted teacher, Anne Sullivan. Her remarkable story reminds us that obstacles do not have to define our future.",
+      "thumbnail": "assets/thumbnails/week-17-book.jpg"
     },
     "video": {
       "title": "Helen Keller for Kids",
@@ -514,12 +533,14 @@ const lessons=[
     "visit": {
       "title": "Ivy Green (Tuscumbia)",
       "url": "https://helenkellerbirthplace.org/",
-      "description": "Visit Helen Keller's childhood home and discover how she learned to communicate and inspired people around the world."
+      "description": "Visit Helen Keller's childhood home and discover how she learned to communicate and inspired people around the world.",
+      "thumbnail": "assets/thumbnails/week-17-visit.jpg"
     },
     "printable": {
   "title": "Feel the Letters",
   "url": "assets/printables/OptAct_Week17.pdf",
-  "description": "Optional Week 17 activity: try writing your name using only touch or with your eyes closed."
+  "description": "Optional Week 17 activity: try writing your name using only touch or with your eyes closed.",
+      "thumbnail": "assets/thumbnails/week-17-print.png"
 },
     "hero": "assets/banners/week-17.webp"
   },
@@ -531,7 +552,8 @@ const lessons=[
       "title": "A Weed Is a Flower: The Life of George Washington Carver",
       "author": "Aliki",
       "url": "https://www.amazon.com/dp/0671664905?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "description": "Discover how a boy who loved plants grew up to become one of America's greatest scientists. George Washington Carver's curiosity, faith, and kindness helped farmers care for the land and inspired generations to use their gifts to serve others."
+      "description": "Discover how a boy who loved plants grew up to become one of America's greatest scientists. George Washington Carver's curiosity, faith, and kindness helped farmers care for the land and inspired generations to use their gifts to serve others.",
+      "thumbnail": "assets/thumbnails/week-18-book.jpg"
     },
     "video": {
       "title": "Facts About George Washington Carver for Kids",
@@ -543,12 +565,14 @@ const lessons=[
     "visit": {
       "title": "Tuskegee University / George Washington Carver Museum",
       "url": "https://www.nps.gov/tuin/planyourvisit/george-washington-carver-museum.htm",
-      "description": "Explore the place where George Washington Carver taught, researched, and encouraged new ways of farming."
+      "description": "Explore the place where George Washington Carver taught, researched, and encouraged new ways of farming.",
+      "thumbnail": "assets/thumbnails/week-18-visit.jpg"
     },
     "printable": {
   "title": "Watch It Grow",
   "url": "assets/printables/OptAct_Week18.pdf",
-  "description": "Optional Week 18 activity: plant seeds or observe different plants and record their changes."
+  "description": "Optional Week 18 activity: plant seeds or observe different plants and record their changes.",
+      "thumbnail": "assets/thumbnails/week-18-print.png"
 },
     "hero": "assets/banners/week-18.webp"
   },
@@ -560,7 +584,8 @@ const lessons=[
       "title": "The Wall",
       "author": "Eve Bunting",
       "url": "https://www.amazon.com/dp/0395629772",
-      "description": "Honor the men and women who have served our country through this thoughtful story about remembrance, sacrifice, and gratitude. As you learn about World War II, this book encourages meaningful conversations about service, courage, and honoring those who gave so much."
+      "description": "Honor the men and women who have served our country through this thoughtful story about remembrance, sacrifice, and gratitude. As you learn about World War II, this book encourages meaningful conversations about service, courage, and honoring those who gave so much.",
+      "thumbnail": "assets/thumbnails/week-19-book.jpg"
     },
     "video": {
       "title": "Exploring the USS Alabama Battleship",
@@ -572,12 +597,14 @@ const lessons=[
     "visit": {
       "title": "USS Alabama Battleship Memorial Park",
       "url": "https://www.ussalabama.com/",
-      "description": "Walk aboard the USS Alabama and learn how Alabamians served their country during World War II."
+      "description": "Walk aboard the USS Alabama and learn how Alabamians served their country during World War II.",
+      "thumbnail": "assets/thumbnails/week-19-visit.jpg"
     },
     "printable": {
   "title": "Say Thank You",
   "url": "assets/printables/OptAct_Week19.pdf",
-  "description": "Optional Week 19 activity: write or draw a thank-you note for someone who serves others."
+  "description": "Optional Week 19 activity: write or draw a thank-you note for someone who serves others.",
+      "thumbnail": "assets/thumbnails/week-19-print.png"
 },
     "hero": "assets/banners/week-19.webp"
   },
