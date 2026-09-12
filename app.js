@@ -200,7 +200,8 @@ const lessons=[
       "title": "Thomas Jefferson Grows a Nation",
       "author": "Peggy Thomas",
       "url": "https://www.penguinrandomhouse.com/books/569595/thomas-jefferson-grows-a-nation-by-peggy-thomas-illustrated-by-stacy-innerst/",
-      "description": "Watch the young United States begin to grow as Thomas Jefferson helps expand the nation westward. This beautifully illustrated book helps children understand the growing country Alabama joined when it became American territory."
+      "description": "Watch the young United States begin to grow as Thomas Jefferson helps expand the nation westward. This beautifully illustrated book helps children understand the growing country Alabama joined when it became American territory.",
+      "thumbnail": "assets/thumbnails/week-07-book.jpeg"
     },
     "video": {
       "title": "Westward Expansion Explained For Kids",
@@ -212,12 +213,14 @@ const lessons=[
     "visit": {
       "title": "Historic Blakeley State Park",
       "url": "https://www.blakeleypark.com/",
-      "description": "Explore one of Alabama's earliest settlements and imagine life as Alabama became part of the Mississippi Territory."
+      "description": "Explore one of Alabama's earliest settlements and imagine life as Alabama became part of the Mississippi Territory.",
+      "thumbnail": "assets/thumbnails/week-07-visit.jpg"
     },
     "printable": {
   "title": "Flags Over Early Alabama",
   "url": "assets/printables/OptAct_Week07.pdf",
-  "description": "Optional Week 7 activity: pack a pioneer wagon using pictures or drawings."
+  "description": "Optional Week 7 activity: pack a pioneer wagon using pictures or drawings.",
+      "thumbnail": "assets/thumbnails/week-07-print.png"
 },
     "hero": "assets/banners/week-07.webp"
   },
@@ -229,7 +232,8 @@ const lessons=[
       "title": "The Great Ball Game: A Muskogee Story",
       "author": "Joseph Bruchac",
       "url": "https://www.amazon.com/dp/0803715390?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "description": "Experience a traditional Muskogee tale filled with lively characters, competition, and wisdom. Reading a story from the Creek people helps children connect with their culture before learning about the difficult events of the Creek War."
+      "description": "Experience a traditional Muskogee tale filled with lively characters, competition, and wisdom. Reading a story from the Creek people helps children connect with their culture before learning about the difficult events of the Creek War.",
+      "thumbnail": "assets/thumbnails/week-08-book.jpg"
     },
     "video": {
       "title": "The Forgotten Creeks",
@@ -241,12 +245,14 @@ const lessons=[
     "visit": {
       "title": "Fort Toulouse-Fort Jackson Park",
       "url": "https://ahc.alabama.gov/properties/fttoulouse/fttoulouse.aspx",
-      "description": "Learn about frontier conflicts and the changing relationships between Native nations and American settlers."
+      "description": "Learn about frontier conflicts and the changing relationships between Native nations and American settlers.",
+      "thumbnail": "assets/thumbnails/week-08-book.png"
     },
   "printable": {
   "title": "Create a Peace Treaty",
   "url": "assets/printables/OptAct_Week08.pdf",
-  "description": "Optional Week 8 activity: create a peace treaty using pictures and signatures."
+  "description": "Optional Week 8 activity: create a peace treaty using pictures and signatures.",
+    "thumbnail": "assets/thumbnails/week-08-print.png"
 },
     "hero": "assets/banners/week-08.webp"
   },
@@ -310,7 +316,7 @@ const lessons=[
   "title": "Build a Frontier Cabin",
   "url": "assets/printables/OptAct_Week10.pdf",
   "description": "Optional Week 10 activity: draw or build a small frontier cabin.",
-      "thumbnail": "assets/thumbnails/week-10-visit.png"
+      "thumbnail": "assets/thumbnails/week-10-print.png"
 },
     "hero": "assets/banners/week-10.webp"
   },
