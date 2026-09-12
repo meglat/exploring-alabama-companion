@@ -104,7 +104,8 @@ const lessons=[
       "title": "Me on the Map",
       "author": "Joan Sweeney",
       "url": "https://www.penguinrandomhouse.com/books/572583/me-on-the-map-by-joan-sweeney-illustrated-by-qin-leng/?utm_source=chatgpt.com",
-      "description": "Maps help us understand where we live and how places connect. This classic picture book introduces children to maps and geography before exploring Alabama in greater detail."
+      "description": "Maps help us understand where we live and how places connect. This classic picture book introduces children to maps and geography before exploring Alabama in greater detail.",
+      "thumbnail": "assets/thumbnails/week-04-book.jpeg"
     },
     "video": {
       "title": "Native American Life in the Southeast",
@@ -116,12 +117,14 @@ const lessons=[
     "visit": {
       "title": "Oakville Indian Mounds Education Center",
       "url": "https://www.oakvilleindianmounds.com/",
-      "description": "Discover artifacts and learn how Native families lived, farmed, traded, and built communities."
+      "description": "Discover artifacts and learn how Native families lived, farmed, traded, and built communities.",
+      "thumbnail": "assets/thumbnails/week-04-visit.jpg"
     },
     "printable": {
   "title": "Weave a Paper Design",
   "url": "assets/printables/OptAct_Week04.pdf",
-  "description": "Optional Week 4 activity: practice paper weaving with a printable strip template."
+  "description": "Optional Week 4 activity: practice paper weaving with a printable strip template.",
+      "thumbnail": "assets/thumbnails/week-04-visit.png"
 },
     "hero": "assets/banners/week-04.webp"
   },
@@ -133,7 +136,8 @@ const lessons=[
       "title": "Jean-Paul’s Daring Adventure: Stories from Old Mobile",
       "author": "",
       "url": "https://www.southalabama.edu/org/archaeology/museum/jp.html",
-      "description": "Travel with young Jean-Paul and his family as they journey to Alabama’s first French settlement. This illustrated adventure helps children imagine the people, challenges, and excitement of beginning a new life in early Mobile."
+      "description": "Travel with young Jean-Paul and his family as they journey to Alabama’s first French settlement. This illustrated adventure helps children imagine the people, challenges, and excitement of beginning a new life in early Mobile.",
+      "thumbnail": "assets/thumbnails/week-05-book.jpg"
     },
     "video": {
       "title": "Historic Colonial Fort Condé",
@@ -145,12 +149,14 @@ const lessons=[
     "visit": {
       "title": "Colonial Fort Condé",
       "url": "https://www.historymuseumofmobile.com/colonial-fort-conde/",
-      "description": "Walk through a reconstruction of Alabama's first permanent European settlement and imagine life in French Mobile."
+      "description": "Walk through a reconstruction of Alabama's first permanent European settlement and imagine life in French Mobile.",
+      "thumbnail": "assets/thumbnails/week-05-visit.jpg"
     },
     "printable": {
   "title": "Design a Flag for Your New Settlement",
   "url": "assets/printables/OptAct_Week05.pdf",
-  "description": "Optional Week 5 activity: design a flag to represent your new settlement."
+  "description": "Optional Week 5 activity: design a flag to represent your new settlement.",
+      "thumbnail": "assets/thumbnails/week-05-print.png"
 },
     "hero": "assets/banners/week-05.webp"
   },
@@ -162,7 +168,8 @@ const lessons=[
       "title": "What Was the Age of Exploration?",
       "author": "Catherine Daly",
       "url": "https://www.penguinrandomhouse.com/books/609467/what-was-the-age-of-exploration-by-catherine-daly-illustrated-by-jake-murray/",
-      "description": "Discover why European nations sailed across oceans, claimed new lands, and competed to build empires. This engaging introduction provides helpful background for understanding why three different countries once raised their flags over Alabama."
+      "description": "Discover why European nations sailed across oceans, claimed new lands, and competed to build empires. This engaging introduction provides helpful background for understanding why three different countries once raised their flags over Alabama.",
+      "thumbnail": "assets/thumbnails/week-06-book.jpeg"
     },
     "video": {
       "title": "Mobile: Three Centuries Experience",
@@ -174,12 +181,14 @@ const lessons=[
     "visit": {
       "title": "Conde' Charlotte Museum",
       "url": "https://condecharlotte.com/",
-      "description": "Learn how three different nations shaped Alabama's early history."
+      "description": "Learn how three different nations shaped Alabama's early history.",
+      "thumbnail": "assets/thumbnails/week-06-visit.jpg"
     },
     "printable": {
   "title": "Flags Over Early Alabama",
   "url": "assets/printables/OptAct_Week06.pdf",
-  "description": "Optional Week 6 activity: color, cut, and arrange Alabama's three early flags in order."
+  "description": "Optional Week 6 activity: color, cut, and arrange Alabama's three early flags in order.",
+      "thumbnail": "assets/thumbnails/week-06-print.png"
 },
     "hero": "assets/banners/week-06.webp"
   },
