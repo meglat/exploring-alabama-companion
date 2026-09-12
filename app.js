@@ -240,7 +240,7 @@ const lessons=[
     },
     "visit": {
       "title": "Fort Toulouse-Fort Jackson Park",
-      "url": "https://fttoulousejackson.org/",
+      "url": "https://ahc.alabama.gov/properties/fttoulouse/fttoulouse.aspx",
       "description": "Learn about frontier conflicts and the changing relationships between Native nations and American settlers."
     },
   "printable": {
