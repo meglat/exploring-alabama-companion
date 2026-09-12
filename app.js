@@ -71,8 +71,9 @@ const lessons=[
     "book": {
       "title": "Hernando de Soto",
       "author": "Kristin Petrie",
-      "url": "https://abdobooks.com/shop/show/14622?utm_source=chatgpt.com",
-      "description": "Travel alongside Hernando de Soto as he explores the Southeast and encounters the people and places that would become part of Alabama's early history."
+      "url": "https://www.hoopladigital.com/ebook/17204897",
+      "description": "Travel alongside Hernando de Soto as he explores the Southeast and encounters the people and places that would become part of Alabama's early history.",
+      "thumbnail": "assets/thumbnails/week-03-book.jpg"
     },
     "video": {
       "title": "Hernando de Soto Expedition",
@@ -84,12 +85,14 @@ const lessons=[
     "visit": {
       "title": "DeSoto State Park",
       "url": "https://www.alapark.com/parks/desoto-state-park",
-      "description": "Take a hike and imagine traveling through Alabama's forests without roads, maps, or modern transportation."
+      "description": "Take a hike and imagine traveling through Alabama's forests without roads, maps, or modern transportation.",
+      "thumbnail": "assets/thumbnails/week-03-visit.jpg"
     },
     "printable": {
   "title": "Packing for a Voyage",
   "url": "assets/printables/OptAct_Week03.pdf",
-  "description": "Optional Week 3 activity: choose what you would pack for a long voyage."
+  "description": "Optional Week 3 activity: choose what you would pack for a long voyage.",
+      "thumbnail": "assets/thumbnails/week-03-print.png"
 },
     "hero": "assets/banners/week-03.webp"
   },
