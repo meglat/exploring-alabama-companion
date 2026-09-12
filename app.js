@@ -616,7 +616,8 @@ const lessons=[
       "title": "The Story of Ruby Bridges",
       "author": "Robert Coles",
       "url": "https://www.amazon.com/dp/0590572814",
-      "description": "Follow the true story of Ruby Bridges, a young girl whose courage helped change America. Her inspiring journey reminds us that kindness, perseverance, and peaceful actions can make a lasting difference in the lives of others."
+      "description": "Follow the true story of Ruby Bridges, a young girl whose courage helped change America. Her inspiring journey reminds us that kindness, perseverance, and peaceful actions can make a lasting difference in the lives of others.",
+      "thumbnail": "assets/thumbnails/week-20-book.jpg"
     },
     "video": {
       "title": "The Civil Rights Movement for Kids",
@@ -628,12 +629,14 @@ const lessons=[
     "visit": {
       "title": "Birmingham Civil Rights Institute",
       "url": "https://www.bcri.org/",
-      "description": "Discover how Alabama became the center of important events that helped change America and advance civil rights."
+      "description": "Discover how Alabama became the center of important events that helped change America and advance civil rights.",
+      "thumbnail": "assets/thumbnails/week-20-visit.jpg"
     },
     "printable": {
   "title": "A Chain of Kindness",
   "url": "assets/printables/OptAct_Week20.pdf",
-  "description": "Optional Week 20 activity: create a paper chain showing ways to spread kindness and fairness."
+  "description": "Optional Week 20 activity: create a paper chain showing ways to spread kindness and fairness.",
+      "thumbnail": "assets/thumbnails/week-20-print.png"
 },
     "hero": "assets/banners/week-20.webp"
   },
@@ -645,7 +648,8 @@ const lessons=[
       "title": "If You Decide to Go to the Moon",
       "author": "Faith McNulty",
       "url": "https://www.amazon.com/dp/0590483595",
-      "description": "Blast off on an unforgettable journey to the moon! As you learn how Huntsville became \"Rocket City,\" this imaginative book helps you appreciate the incredible teamwork, courage, and curiosity that made space exploration possible."
+      "description": "Blast off on an unforgettable journey to the moon! As you learn how Huntsville became \"Rocket City,\" this imaginative book helps you appreciate the incredible teamwork, courage, and curiosity that made space exploration possible.",
+      "thumbnail": "assets/thumbnails/week-21-book.jpg"
     },
     "video": {
       "title": "Neil Armstrong for Kids | First Man on the Moon",
@@ -657,12 +661,14 @@ const lessons=[
     "visit": {
       "title": "U.S. Space & Rocket Center",
       "url": "https://www.rocketcenter.com/",
-      "description": "Explore rockets, space exhibits, and the home of the Saturn V rocket that helped send astronauts to the moon."
+      "description": "Explore rockets, space exhibits, and the home of the Saturn V rocket that helped send astronauts to the moon.",
+      "thumbnail": "assets/thumbnails/week-21-visit.jpg"
     },
     "printable": {
   "title": "Blast Off!",
   "url": "assets/printables/OptAct_Week21.pdf",
-  "description": "Optional Week 21 activity: build a paper rocket or design your own spacecraft."
+  "description": "Optional Week 21 activity: build a paper rocket or design your own spacecraft.",
+      "thumbnail": "assets/thumbnails/week-21-print.png"
 },
     "hero": "assets/banners/week-21.webp"
   },
@@ -674,7 +680,8 @@ const lessons=[
       "title": "Y Is for Yellowhammer: An Alabama Alphabet",
       "author": "Carol Crane",
       "url": "https://www.amazon.com/dp/1585361186?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "description": "Celebrate Alabama's rich history as you explore the people, places, and traditions that make the Yellowhammer State unique. This beautifully illustrated alphabet book is a fun way to discover many of the stories that make Alabama special."
+      "description": "Celebrate Alabama's rich history as you explore the people, places, and traditions that make the Yellowhammer State unique. This beautifully illustrated alphabet book is a fun way to discover many of the stories that make Alabama special.",
+      "thumbnail": "assets/thumbnails/week-22-book.jpg"
     },
     "video": {
       "title": "The Mobile Alabama Mardi Gras",
@@ -686,12 +693,14 @@ const lessons=[
     "visit": {
       "title": "Attend a Local Festival or County Fair",
       "url": "https://alabama.travel/festivals-and-events",
-      "description": "Experience Alabama's traditions through music, food, crafts, and celebrations that bring communities together."
+      "description": "Experience Alabama's traditions through music, food, crafts, and celebrations that bring communities together.",
+      "thumbnail": "assets/thumbnails/week-22-visit.jpg"
     },
     "printable": {
   "title": "Our Family Traditions",
   "url": "assets/printables/OptAct_Week22.pdf",
-  "description": "Optional Week 22 activity: create a page showing your family's favorite traditions."
+  "description": "Optional Week 22 activity: create a page showing your family's favorite traditions.",
+      "thumbnail": "assets/thumbnails/week-22-print.png"
 },
     "hero": "assets/banners/week-22.webp"
   },
@@ -703,7 +712,8 @@ const lessons=[
       "title": "The Salamander Room",
       "author": "Anne Mazer",
       "url": "https://www.amazon.com/dp/0440847702?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "description": "What would happen if you brought a wild salamander home? This thoughtful story encourages young readers to appreciate the beauty of nature and reminds us why it's important to protect Alabama's amazing plants, animals, and habitats."
+      "description": "What would happen if you brought a wild salamander home? This thoughtful story encourages young readers to appreciate the beauty of nature and reminds us why it's important to protect Alabama's amazing plants, animals, and habitats.",
+      "thumbnail": "assets/thumbnails/week-23-book.jpg"
     },
     "video": {
       "title": "Alabama's Hidden Wonders: Cathedral Caverns & Little River Canyon",
@@ -715,12 +725,14 @@ const lessons=[
     "visit": {
       "title": "Little River Canyon",
       "url": "https://www.nps.gov/liri/index.htm",
-      "description": "Explore Alabama's beautiful natural landscapes and discover the diverse environments found across the state."
+      "description": "Explore Alabama's beautiful natural landscapes and discover the diverse environments found across the state.",
+      "thumbnail": "assets/thumbnails/week-23-visit.jpg"
     },
     "printable": {
   "title": "Alabama Habitats",
   "url": "assets/printables/OptAct_Week23.pdf",
-  "description": "Optional Week 23 activity: make a simple Alabama habitat diorama or nature collage."
+  "description": "Optional Week 23 activity: make a simple Alabama habitat diorama or nature collage.",
+      "thumbnail": "assets/thumbnails/week-23-print.png"
 },
     "hero": "assets/banners/week-23.webp"
   },
@@ -732,7 +744,8 @@ const lessons=[
       "title": "Miss Rumphius",
       "author": "Barbara Cooney",
       "url": "https://www.amazon.com/dp/0140505393",
-      "description": "As you finish your journey across Alabama's history, this inspiring story reminds us that each of us has the opportunity to make the world a little more beautiful. Every generation helps write the next chapter of Alabama's story."
+      "description": "As you finish your journey across Alabama's history, this inspiring story reminds us that each of us has the opportunity to make the world a little more beautiful. Every generation helps write the next chapter of Alabama's story.",
+      "thumbnail": "assets/thumbnails/week-24-book.jpg"
     },
     "video": {
       "title": "Alabama for Kids | US States Learning Video",
@@ -744,12 +757,14 @@ const lessons=[
     "visit": {
       "title": "Your Favorite Alabama Place",
       "url": "",
-      "description": "Visit a special place in Alabama and reflect on everything you've learned about our state's story and future."
+      "description": "Visit a special place in Alabama and reflect on everything you've learned about our state's story and future.",
+      "thumbnail": "assets/thumbnails/week-24-visit.png"
     },
     "printable": {
   "title": "I Love Alabama!",
   "url": "assets/printables/OptAct_Week24.pdf",
-  "description": "Optional Week 24 activity: create an I Love Alabama poster using favorite memories and facts."
+  "description": "Optional Week 24 activity: create an I Love Alabama poster using favorite memories and facts.",
+      "thumbnail": "assets/thumbnails/week-24-print.png"
 },
     "hero": "assets/banners/week-24.webp"
   },
@@ -761,7 +776,8 @@ const lessons=[
       "title": "Alabama Department of Archives & History – The State's Name",
       "author": "",
       "url": "https://archives.alabama.gov/research/guidance/Fast-Facts.aspx",
-      "description": "Where did the name \"Alabama\" come from? Explore early maps, Native American history, and the fascinating clues historians use to uncover the story behind our state's name. You'll discover that sometimes history has more than one possible answer!"
+      "description": "Where did the name \"Alabama\" come from? Explore early maps, Native American history, and the fascinating clues historians use to uncover the story behind our state's name. You'll discover that sometimes history has more than one possible answer!",
+      "thumbnail": "assets/thumbnails/week-25-book.jpg"
     },
     "video": {
       "title": "What's Behind Alabama's Forgotten Native Legacy?",
@@ -773,12 +789,14 @@ const lessons=[
     "visit": {
       "title": "Alabama Department of Archives & History",
       "url": "https://archives.alabama.gov/",
-      "description": "Explore exhibits and maps that help tell the story of Alabama's earliest people and how our state received its name."
+      "description": "Explore exhibits and maps that help tell the story of Alabama's earliest people and how our state received its name.",
+      "thumbnail": "assets/thumbnails/week-25-visit.jpg"
     },
     "printable": {
   "title": "What's in a Name?",
   "url": "assets/printables/OptAct_Week25.pdf",
-  "description": "Optional Week 25 activity: discover what your own name means and create a name page."
+  "description": "Optional Week 25 activity: discover what your own name means and create a name page.",
+      "thumbnail": "assets/thumbnails/week-25-print.png"
 },
     "hero": "assets/banners/week-25.webp"
   },
@@ -790,7 +808,8 @@ const lessons=[
       "title": "National Park Service – Cave & Karst Resources",
       "author": "",
       "url": "https://www.nps.gov/subjects/caves/index.htm",
-      "description": "Discover the amazing underground world of caves, rock formations, and natural bridges! Learn how water, time, and nature work together to create some of Alabama's most incredible natural wonders."
+      "description": "Discover the amazing underground world of caves, rock formations, and natural bridges! Learn how water, time, and nature work together to create some of Alabama's most incredible natural wonders.",
+      "thumbnail": "assets/thumbnails/week-26-book.jpg"
     },
     "video": {
       "title": "Discovering Cathedral Caverns State Park",
@@ -802,12 +821,14 @@ const lessons=[
     "visit": {
       "title": "Cathedral Caverns State Park",
       "url": "https://www.alapark.com/parks/cathedral-caverns-state-park",
-      "description": "Explore Alabama's amazing rock formations and caves created over millions of years."
+      "description": "Explore Alabama's amazing rock formations and caves created over millions of years.",
+      "thumbnail": "assets/thumbnails/week-26-visit.jpg"
     },
     "printable": {
   "title": "Build a Cave or Natural Bridge",
   "url": "assets/printables/OptAct_Week26.pdf",
-  "description": "Optional Week 26 activity: build a cave or natural bridge using blocks, clay, or paper."
+  "description": "Optional Week 26 activity: build a cave or natural bridge using blocks, clay, or paper.",
+      "thumbnail": "assets/thumbnails/week-26-print.png"
 },
     "hero": "assets/banners/week-26.webp"
   },
@@ -819,7 +840,8 @@ const lessons=[
       "title": "National Geographic Kids Animal Encyclopedia",
       "author": "",
       "url": "https://kids.nationalgeographic.com/animals",
-      "description": "Meet fascinating animals from around the world—including many that live right here in Alabama! Discover how different habitats provide homes for black bears, bald eagles, sea turtles, deer, and many other amazing creatures."
+      "description": "Meet fascinating animals from around the world—including many that live right here in Alabama! Discover how different habitats provide homes for black bears, bald eagles, sea turtles, deer, and many other amazing creatures.",
+      "thumbnail": "assets/thumbnails/week-27-book.png"
     },
     "video": {
       "title": "Wildlife of Alabama",
@@ -831,12 +853,14 @@ const lessons=[
     "visit": {
       "title": "Alabama Wildlife Center",
       "url": "https://alabamawildlifecenter.org/",
-      "description": "Discover the many animals that call Alabama home and learn how we can protect their habitats."
+      "description": "Discover the many animals that call Alabama home and learn how we can protect their habitats.",
+      "thumbnail": "assets/thumbnails/week-27-visit.png"
     },
     "printable": {
   "title": "Alabama Animals and Their Homes",
   "url": "assets/printables/OptAct_Week27.pdf",
-  "description": "Optional Week 27 activity: match Alabama animals to their habitats using drawings or cards."
+  "description": "Optional Week 27 activity: match Alabama animals to their habitats using drawings or cards.",
+      "thumbnail": "assets/thumbnails/week-27-print.png"
 },
     "hero": "assets/banners/week-27.webp"
   },
@@ -848,7 +872,8 @@ const lessons=[
       "title": "The Tennessee Valley Authority (TVA) – History & Education",
       "author": "",
       "url": "https://www.tva.com/about-tva/our-history",
-      "description": "Discover how one mighty river helped shape Alabama's history. Learn how the Tennessee River provides transportation, electricity, recreation, and natural beauty while continuing to serve millions of people today."
+      "description": "Discover how one mighty river helped shape Alabama's history. Learn how the Tennessee River provides transportation, electricity, recreation, and natural beauty while continuing to serve millions of people today.",
+      "thumbnail": "assets/thumbnails/week-28-book.jpg"
     },
     "video": {
       "title": "New Deal Programs and Impact - The CCC and Beyond",
@@ -860,12 +885,14 @@ const lessons=[
     "visit": {
       "title": "TVA Visitor Center (Virtual Tour) or find a staffed Hyrdo Dam closest to you",
       "url": "https://www.tva.com/environment/recreation/visitor-centers",
-      "description": "Learn how the Tennessee River shaped Alabama's economy, wildlife, and communities."
+      "description": "Learn how the Tennessee River shaped Alabama's economy, wildlife, and communities.",
+      "thumbnail": "assets/thumbnails/week-28-visit.jpg"
     },
     "printable": {
   "title": "Create a River in a Sensory Tray",
   "url": "assets/printables/OptAct_Week28.pdf",
-  "description": "Optional Week 28 activity: create a river in a sensory tray using foil, sand, or water."
+  "description": "Optional Week 28 activity: create a river in a sensory tray using foil, sand, or water.",
+      "thumbnail": "assets/thumbnails/week-28-print.png"
 },
     "hero": "assets/banners/week-28.webp"
   },
@@ -877,7 +904,8 @@ const lessons=[
       "title": "Good Night Lighthouse",
       "author": "Adam Gamble & Mark Jasper",
       "url": "https://www.penguinrandomhouse.com/books/763691/good-night-lighthouse-by-adam-gamble-mark-jasper/",
-      "description": "Discover the fascinating world of lighthouses and the people who cared for them. As you explore Alabama's Gulf Coast, you'll learn how these towering beacons guided ships safely home for generations."
+      "description": "Discover the fascinating world of lighthouses and the people who cared for them. As you explore Alabama's Gulf Coast, you'll learn how these towering beacons guided ships safely home for generations.",
+      "thumbnail": "assets/thumbnails/week-29-book.jpeg"
     },
     "video": {
       "title": "Inside The Historic Fort Morgan, Alabama",
@@ -889,12 +917,14 @@ const lessons=[
     "visit": {
       "title": "Fort Morgan or Sand Island Lighthouse Viewpoint",
       "url": "https://www.acpinfo.com/sand-island-lighthouse/",
-      "description": "Explore Alabama's coastal history and discover how forts and lighthouses protected travelers and ships."
+      "description": "Explore Alabama's coastal history and discover how forts and lighthouses protected travelers and ships.",
+      "thumbnail": "assets/thumbnails/week-29-visit.jpg"
     },
     "printable": {
   "title": "Build a Lighthouse",
   "url": "assets/printables/OptAct_Week29.pdf",
-  "description": "Optional Week 29 activity: build a lighthouse using blocks, cups, or recycled materials."
+  "description": "Optional Week 29 activity: build a lighthouse using blocks, cups, or recycled materials.",
+      "thumbnail": "assets/thumbnails/week-29-print.png"
 },
     "hero": "assets/banners/week-29.webp"
   },
@@ -906,7 +936,8 @@ const lessons=[
       "title": "Crescendo: The Story of a Musical Genius Who Forever Changed a Southern Town",
       "author": "Cheney, Allen, Cantrell, Julie",
       "url": "https://www.worldofbooks.com/products/crescendo-book-allen-cheney-9780785217404?sku=CIN0785217401G&utm_source=chatgpt.com&oppcref=e6532ca2-59b8-439e-8105-3359d1587a5e",
-      "description": "Discover the inspiring story of W. C. Handy, whose love of music helped change America forever. As you explore Alabama's musical heritage, you'll see how one person's creativity inspired generations of musicians and helped shape the sounds that still influence music today."
+      "description": "Discover the inspiring story of W. C. Handy, whose love of music helped change America forever. As you explore Alabama's musical heritage, you'll see how one person's creativity inspired generations of musicians and helped shape the sounds that still influence music today.",
+      "thumbnail": "assets/thumbnails/week-30-book.jpg"
     },
     "video": {
       "title": "History Minute: Muscle Shoals Sound",
@@ -918,12 +949,14 @@ const lessons=[
     "visit": {
       "title": "Alabama Music Hall of Fame",
       "url": "https://www.alamhof.org/",
-      "description": "Discover how Alabama musicians helped shape many different styles of American music."
+      "description": "Discover how Alabama musicians helped shape many different styles of American music.",
+      "thumbnail": "assets/thumbnails/week-30-visit.jpg"
     },
     "printable": {
   "title": "Alabama Sounds",
   "url": "assets/printables/OptAct_Week30.pdf",
-  "description": "Optional Week 30 activity: listen to Alabama music and draw what the songs make you imagine."
+  "description": "Optional Week 30 activity: listen to Alabama music and draw what the songs make you imagine.",
+      "thumbnail": "assets/thumbnails/week-30-print.png"
 },
     "hero": "assets/banners/week-30.webp"
   },
@@ -935,7 +968,8 @@ const lessons=[
       "title": "The Kid Who Invented the Popsicle: And Other Surprising Stories About Inventions",
       "author": "Don Wulffson",
       "url": "https://www.amazon.com/dp/0141302046?lv=shuf&channelId=500&plpRedirect=mhFallback",
-      "description": "Every invention begins with an idea! Discover the surprising stories behind everyday inventions and be inspired by the creativity, curiosity, and determination that help inventors solve problems and improve the world."
+      "description": "Every invention begins with an idea! Discover the surprising stories behind everyday inventions and be inspired by the creativity, curiosity, and determination that help inventors solve problems and improve the world.",
+      "thumbnail": "assets/thumbnails/week-31-book.jpg"
     },
     "video": {
       "title": "The Kid Who Invented the Popsicle",
@@ -947,12 +981,14 @@ const lessons=[
     "visit": {
       "title": "McWane Science Center",
       "url": "https://mcwane.org/",
-      "description": "Explore science, technology, and the many inventions and innovations connected to Alabama."
+      "description": "Explore science, technology, and the many inventions and innovations connected to Alabama.",
+      "thumbnail": "assets/thumbnails/week-31-visit.jpg"
     },
     "printable": {
   "title": "Design Your Own Invention",
   "url": "assets/printables/OptAct_Week31.pdf",
-  "description": "Optional Week 31 activity: sketch your own invention and explain how it helps people."
+  "description": "Optional Week 31 activity: sketch your own invention and explain how it helps people.",
+      "thumbnail": "assets/thumbnails/week-31-print.png"
 },
     "hero": "assets/banners/week-31.webp"
   },
@@ -964,7 +1000,8 @@ const lessons=[
       "title": "What Do You Do With an Idea?",
       "author": "Kobi Yamada",
       "url": "https://www.amazon.com/dp/1938298071?lv=shuf&channelId=480&plpRedirect=mhFallback",
-      "description": "Every great accomplishment begins with an idea. As you reflect on the remarkable Alabamians you've studied throughout this year, you'll be encouraged to dream big, work hard, and use your unique gifts to make a positive difference in your family, community, and the world."
+      "description": "Every great accomplishment begins with an idea. As you reflect on the remarkable Alabamians you've studied throughout this year, you'll be encouraged to dream big, work hard, and use your unique gifts to make a positive difference in your family, community, and the world.",
+      "thumbnail": "assets/thumbnails/week-32-book.jpg"
     },
     "video": {
       "title": "Alabama for Kids | US States Learning Video",
@@ -976,12 +1013,14 @@ const lessons=[
     "visit": {
       "title": "Alabama Sports Hall of Fame",
       "url": "https://ashof.org/",
-      "description": "Learn about famous Alabamians who have influenced our state, nation, and world."
+      "description": "Learn about famous Alabamians who have influenced our state, nation, and world.",
+      "thumbnail": "assets/thumbnails/week-32-visit.jpg"
     },
     "printable": {
   "title": "Future Famous Alabamian",
   "url": "assets/printables/OptAct_Week32.pdf",
-  "description": "Optional Week 32 activity: create a Future Famous Alabamian page about yourself."
+  "description": "Optional Week 32 activity: create a Future Famous Alabamian page about yourself.",
+      "thumbnail": "assets/thumbnails/week-32-print.png"
 },
     "hero": "assets/banners/week-32.webp"
   },
@@ -993,7 +1032,8 @@ const lessons=[
       "title": "Alabama State Parks Official Guide",
       "author": "",
       "url": "https://www.alapark.com/",
-      "description": "Explore Alabama's incredible state parks, where forests, waterfalls, mountains, rivers, beaches, and wildlife are protected for everyone to enjoy. Discover new places to hike, camp, learn, and experience the beauty of God's creation."
+      "description": "Explore Alabama's incredible state parks, where forests, waterfalls, mountains, rivers, beaches, and wildlife are protected for everyone to enjoy. Discover new places to hike, camp, learn, and experience the beauty of God's creation.",
+      "thumbnail": "assets/thumbnails/week-33-book.png"
     },
     "video": {
       "title": "Alabama State Parks Virtual Naturalist Series",
@@ -1005,12 +1045,14 @@ const lessons=[
     "visit": {
       "title": "Visit Any Alabama State Park- Monte Sano State Park",
       "url": "https://www.alapark.com/parks/monte-sano-state-park",
-      "description": "Explore one of Alabama's beautiful state parks and discover why these special places are worth protecting."
+      "description": "Explore one of Alabama's beautiful state parks and discover why these special places are worth protecting.",
+      "thumbnail": "assets/thumbnails/week-33-visit.jpg"
     },
     "printable": {
   "title": "Design Your Dream Alabama State Park",
   "url": "assets/printables/OptAct_Week33.pdf",
-  "description": "Optional Week 33 activity: design your dream Alabama State Park with maps and activities."
+  "description": "Optional Week 33 activity: design your dream Alabama State Park with maps and activities.",
+      "thumbnail": "assets/thumbnails/week-33-print.png"
 },
     "hero": "assets/banners/week-33.webp"
   },
@@ -1022,7 +1064,8 @@ const lessons=[
       "title": "If You Lived 100 Years Ago",
       "author": "Ann McGovern",
       "url": "https://www.amazon.com/dp/059045160X",
-      "description": "Travel back in time to discover what everyday life was like a century ago. As you compare the past with the present, you'll see how Alabama has changed over time—and how today's children will help shape its future."
+      "description": "Travel back in time to discover what everyday life was like a century ago. As you compare the past with the present, you'll see how Alabama has changed over time—and how today's children will help shape its future.",
+      "thumbnail": "assets/thumbnails/week-34-book.jpg"
     },
     "video": {
       "title": "Let's Go To Alabama",
@@ -1034,12 +1077,14 @@ const lessons=[
     "visit": {
       "title": "Visit Your Town's Historical Society or Museum- Huntsville-Madison County Historical Society",
       "url": "https://hmchs.org/",
-      "description": "Compare Alabama's past and present by learning how your local community has changed over time."
+      "description": "Compare Alabama's past and present by learning how your local community has changed over time.",
+      "thumbnail": "assets/thumbnails/week-34-visit.png"
     },
     "printable": {
   "title": "My Alabama Story",
   "url": "assets/printables/OptAct_Week34.pdf",
-  "description": "Optional Week 34 activity: create a memory page about your Alabama adventures, favorite places, and what you've learned."
+  "description": "Optional Week 34 activity: create a memory page about your Alabama adventures, favorite places, and what you've learned.",
+      "thumbnail": "assets/thumbnails/week-34-print.png"
 },
     "hero": "assets/banners/week-34.webp"
   }
