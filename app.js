@@ -40,7 +40,8 @@ const lessons=[
       "title": "A Kid's Guide to Native American History",
       "author": "Yvonne Wakim Dennis & Arlene Hirschfelder",
       "url": "https://www.chicagoreviewpress.com/a-kid-s-guide-to-native-american-history-products-9781556528026.php?utm_source=chatgpt.com",
-      "description": "Long before European explorers arrived, Native peoples had lived in Alabama for thousands of years. This engaging book introduces children to Native American history and cultures while encouraging curiosity and respect."
+      "description": "Long before European explorers arrived, Native peoples had lived in Alabama for thousands of years. This engaging book introduces children to Native American history and cultures while encouraging curiosity and respect.",
+      "thumbnail": "assets/thumbnails/week-02-book.jpg"
     },
     "video": {
       "title": "Creek Indians Lesson for Kids",
@@ -52,12 +53,14 @@ const lessons=[
     "visit": {
       "title": "Moundville Archaeological Park",
       "url": "https://moundville.museums.ua.edu/",
-      "description": "Explore one of the largest Native American sites in North America and learn about Alabama's earliest communities."
+      "description": "Explore one of the largest Native American sites in North America and learn about Alabama's earliest communities.",
+      "thumbnail": "assets/thumbnails/week-02-visit.jpg"
     },
     "printable": {
   "title": "Create a Pictograph Story",
   "url": "assets/printables/OptAct_Week02.pdf",
-  "description": "Optional Week 2 activity: create a story using pictures and symbols."
+  "description": "Optional Week 2 activity: create a story using pictures and symbols.",
+      "thumbnail": "assets/thumbnails/week-02-print.png"
 },
     "hero": "assets/banners/week-02.webp"
   },
