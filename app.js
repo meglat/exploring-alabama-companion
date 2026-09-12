@@ -1039,6 +1039,14 @@ if(l.book.thumbnail){
   $("visitTitle").textContent=l.visit.title;
   $("visitDesc").textContent=l.visit.description;
   setOptionalLink("visitLink",l.visit.url);
+  
+  const v=$("visitArt");
+
+if(l.visit.thumbnail){
+  v.innerHTML=`<img src="${l.visit.thumbnail}" alt="${l.visit.title}" class="resource-thumbnail">`;
+}else{
+  v.textContent="🧭";
+}
   const ps=$("printableSection");
 
 if(l.printable){
